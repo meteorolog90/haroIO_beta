@@ -6,5 +6,5 @@ load harpIO inside script
 devtools::load_all("path/to/harpIO/R")
 
 
-#updated version:
+updated version:
 harpIO-develop-Praha.zip
